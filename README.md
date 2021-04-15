@@ -49,11 +49,11 @@ Je kan de teksten in de sketch makkelijk aanpassen. Vanaf regel 62 staan vier te
         "Wie vrijheid inruilt voor veiligheid verdient geen van beiden", 
      };
 
-Naast de tekst heeft de sketch nog 2 onderdelen nodig. Als je teksten toevoegd moet je ook extra 0-en toevoegen in regel 59:
+Naast de tekst heeft de sketch nog 2 onderdelen nodig. Als je teksten toevoegt moet je ook extra 0-en toevoegen in regel 59:
 
     int textlen[] = { 0, 0, 0, 0 };
 
-En je moet meegeven bij regel 45 welke kleur je de tekst wil hebben, dat kan per tekst verschillen, in dit voorbeeld is dat Oranje, Rood, Wit en Cyaan. Voeg keluren toe waarbij het eerste getal de hoeveelheid Rood is, het tweede getal hoeveel Groen en het derde getal hoeveel blauw:
+En je moet meegeven bij regel 45 welke kleur je de tekst wil hebben, dat kan per tekst verschillen, in dit voorbeeld is dat Oranje, Rood, Wit en Cyaan. Voeg kleuren toe als RGB waarde, waarbij het eerste getal de hoeveelheid Rood is, het tweede getal hoeveel Groen en het derde getal hoeveel Blauw:
 
     const uint16_t colors[] = {
         matrix.Color(255,165,0), matrix.Color(255, 0, 0), matrix.Color(255, 255, 255), matrix.Color(0, 255, 255)
