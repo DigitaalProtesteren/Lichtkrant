@@ -23,7 +23,7 @@ Een lichtkrant als protestbord of voor op een hoed.
 ## Instructies
 
 Desoldeer de aansluiting voor data output (de manelijke connector) van het scherm, bewaar de connector.
-![Aansluitingen scherm](/MatrixAansluitingen.jpg)
+![Aansluitingen scherm](/MatrixAansluiting.jpg)
 
 Soldeer de net verkregen connector aan de Arduino:
 * Rode draad op de 5V aansluiting.
