@@ -34,7 +34,7 @@ Soldeer eventueel de elektrolytische condensator op de losse rode en witte of ro
 
 LET OP, de condensator heeft een witte streep of aanduiding die de negatieve kant aangeeft. Deze dient op de witte of zwarte draad aangesloten te worden, de andere kant van de condensator is voor de rode draad. Controleer of je de polariteit goed hebt aangesloten en isoleer de aansluitingen met ducttape.
 
-Sluit de Arduino aan op de computer en upload de sketch (lichtkrant.ino).
+Sluit de Arduino aan op de computer en upload de sketch (hoedtekst.ino).
 
 Zet het scherm vast op een bord of om een (hoge)hoed heen. Bij een hoge hoed kan je de krant op de rand laten rusten en met een draad tussen de LEDs door om de hoed heen vastbinden.
 
